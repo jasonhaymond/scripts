@@ -1,5 +1,5 @@
-#Uninstall Office Desktop Apps
-##Description:
+# Uninstall Office Desktop Apps
+## Description:
 Script to uninstall the pre-loaded Microsoft Office 365 Desktop Apps.
 
 
